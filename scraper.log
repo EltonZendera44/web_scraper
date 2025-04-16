@@ -1,0 +1,41 @@
+2025-04-16 03:43:48,054 - INFO - Starting job scrape from: https://vacancymail.co.zw/jobs/
+2025-04-16 03:43:49,486 - INFO - No jobs to save.
+# Save HTML to inspect
+with open("page.html", "w", encoding='utf-8') as f:
+    f.write(response.text)
+2025-04-16 03:51:29,582 - INFO - Starting job scrape from: https://vacancymail.co.zw/jobs/
+2025-04-16 03:51:30,466 - INFO - No jobs to save.
+2025-04-16 03:59:04,288 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 03:59:05,230 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-16 04:19:25,874 - INFO - Scraping page 1: https://vacancymail.co.zw/jobs/
+2025-04-16 04:19:28,798 - INFO - Scraping page 2: https://vacancymail.co.zw/jobs/?page=2
+2025-04-16 04:19:31,554 - INFO - Scraping page 3: https://vacancymail.co.zw/jobs/?page=3
+2025-04-16 04:19:34,368 - INFO - Scraping page 4: https://vacancymail.co.zw/jobs/?page=4
+2025-04-16 04:19:37,136 - INFO - Scraping page 5: https://vacancymail.co.zw/jobs/?page=5
+2025-04-16 04:19:39,989 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 04:20:43,753 - INFO - Scraping page 1: https://vacancymail.co.zw/jobs/
+2025-04-16 04:20:46,720 - INFO - Scraping page 2: https://vacancymail.co.zw/jobs/?page=2
+2025-04-16 04:20:49,564 - INFO - Scraping page 3: https://vacancymail.co.zw/jobs/?page=3
+2025-04-16 04:20:52,367 - INFO - Scraping page 4: https://vacancymail.co.zw/jobs/?page=4
+2025-04-16 04:20:55,148 - INFO - Scraping page 5: https://vacancymail.co.zw/jobs/?page=5
+2025-04-16 04:20:58,114 - INFO - Successfully saved 50 jobs from 5 pages to scraped_data.csv
+2025-04-16 04:24:54,884 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 04:24:55,746 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 04:26:01,359 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 04:26:02,187 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 04:31:46,770 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 04:31:47,626 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-16 04:35:58,529 - INFO - Scraping page 1: https://vacancymail.co.zw/jobs/
+2025-04-16 04:36:01,416 - INFO - Scraping page 2: https://vacancymail.co.zw/jobs/?page=2
+2025-04-16 04:36:04,258 - INFO - Scraping page 3: https://vacancymail.co.zw/jobs/?page=3
+2025-04-16 04:36:07,093 - INFO - Scraping page 4: https://vacancymail.co.zw/jobs/?page=4
+2025-04-16 04:36:09,894 - INFO - Scraping page 5: https://vacancymail.co.zw/jobs/?page=5
+2025-04-16 04:36:12,734 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 04:36:47,810 - INFO - Scraping page 1: https://vacancymail.co.zw/jobs/
+2025-04-16 04:36:50,933 - INFO - Scraping page 2: https://vacancymail.co.zw/jobs/?page=2
+2025-04-16 04:36:53,940 - INFO - Scraping page 3: https://vacancymail.co.zw/jobs/?page=3
+2025-04-16 04:36:58,190 - INFO - Scraping page 4: https://vacancymail.co.zw/jobs/?page=4
+2025-04-16 04:37:01,222 - INFO - Scraping page 5: https://vacancymail.co.zw/jobs/?page=5
+2025-04-16 04:37:04,365 - INFO - Successfully saved 50 jobs from 5 pages to scraped_data.csv
+2025-04-16 04:40:19,431 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 04:40:20,219 - INFO - Successfully saved 10 jobs to scraped_data.csv
